@@ -9,6 +9,7 @@ Este projeto tem o objetivo de resolver um desáfio de projeto para criação de
 - Integração com banco de dados PostgreSQL
 - Padrões de Projeto
 - Docker
+- Integração contínua com GitHub e Heroku
 
 ## Configurando ambiente
 ### Requisitos
